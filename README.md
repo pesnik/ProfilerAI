@@ -29,7 +29,4 @@ ProfilerAI is an open R&D project, and we’d love your input! Whether you want 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-## Repository
-Explore the project on GitHub: [https://github.com/pesnik/ProfilerAI](https://github.com/pesnik/ProfilerAI)
-
 **Join us in shaping the future of AI-driven profiling!**
